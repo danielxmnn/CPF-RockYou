@@ -41,7 +41,7 @@ Run the script to generate valid CPFs:
 python cpf_rockyou.py
 ```
 
-#SIZE OF FILE 12,1 GB (13.000.000.000 bytes)
+*** SIZE OF FINAL FILE 12,1 GB (13.000.000.000 bytes) ***
 
 
 
